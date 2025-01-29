@@ -1,0 +1,303 @@
+[
+  {
+    "id": 9,
+    "nombre": "Sudadera con capucha",
+    "precio": "15432",
+    "stock": "20",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Gorra de bsbol",
+    "precio": "3542",
+    "stock": "10",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Bufanda tejida",
+    "precio": "12432",
+    "stock": "25",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Guantes t\u00c3\u00a9rmicos",
+    "precio": "8430",
+    "stock": "18",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Abrigo largo",
+    "precio": "52900",
+    "stock": "3",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Short deportivo",
+    "precio": "8456",
+    "stock": "30",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Sandalias de verano",
+    "precio": "15780",
+    "stock": "12",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Chaleco deportivo",
+    "precio": "14560",
+    "stock": "22",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Ropa interior t\u00c3\u00a9rmica",
+    "precio": "10340",
+    "stock": "14",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Mochila casual",
+    "precio": "18750",
+    "stock": "8",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Sombrero de paja",
+    "precio": "5120",
+    "stock": "19",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 24,
+    "nombre": "Reloj deportivo",
+    "precio": "38500",
+    "stock": "7",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Pantalon cargo",
+    "precio": "27650",
+    "stock": "10",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Campera inflable",
+    "precio": "56000",
+    "stock": "6",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 27,
+    "nombre": "Corbata de seda",
+    "precio": "15200",
+    "stock": "12",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Camisa estampada",
+    "precio": "23490",
+    "stock": "13",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Falda de cuero",
+    "precio": "36420",
+    "stock": "2",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Zapatillas urbanas",
+    "precio": "27890",
+    "stock": "9",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 31,
+    "nombre": "Pantalones deportivos",
+    "precio": "18450",
+    "stock": "18",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 32,
+    "nombre": "Traje formal",
+    "precio": "60000",
+    "stock": "1",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 33,
+    "nombre": "Camiseta estampada",
+    "precio": "9400",
+    "stock": "24",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 34,
+    "nombre": "Camiseta sin mangas",
+    "precio": "7650",
+    "stock": "21",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 35,
+    "nombre": "Mono de verano",
+    "precio": "22980",
+    "stock": "10",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 36,
+    "nombre": "Traje de ba\u00c3\u00b1o",
+    "precio": "13240",
+    "stock": "16",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 37,
+    "nombre": "Pijama de algod\u00c3\u00b3n",
+    "precio": "19800",
+    "stock": "20",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 38,
+    "nombre": "Chamarra polar",
+    "precio": "45120",
+    "stock": "5",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 39,
+    "nombre": "Botas de monta\u00c3\u00b1a",
+    "precio": "53800",
+    "stock": "3",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 40,
+    "nombre": "Leggings deportivos",
+    "precio": "14700",
+    "stock": "26",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 41,
+    "nombre": "Blazer cl\u00c3\u00a1sico",
+    "precio": "46500",
+    "stock": "4",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 42,
+    "nombre": "Camisa slim fit",
+    "precio": "28700",
+    "stock": "10",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 43,
+    "nombre": "Polo casual",
+    "precio": "12950",
+    "stock": "32",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 44,
+    "nombre": "Top corto",
+    "precio": "11200",
+    "stock": "18",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 45,
+    "nombre": "Chaqueta vaquera",
+    "precio": "32450",
+    "stock": "7",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 46,
+    "nombre": "Zapatos elegantes",
+    "precio": "49200",
+    "stock": "9",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 47,
+    "nombre": "Gorro de lana",
+    "precio": "4100",
+    "stock": "35",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 48,
+    "nombre": "Camiseta de tirantes",
+    "precio": "5400",
+    "stock": "23",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 49,
+    "nombre": "Pantalones cortos",
+    "precio": "12890",
+    "stock": "11",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 50,
+    "nombre": "Bermudas cargo",
+    "precio": "14400",
+    "stock": "6",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 51,
+    "nombre": "Camis\u00c3\u00b3n largo",
+    "precio": "18200",
+    "stock": "8",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 52,
+    "nombre": "Abrigo impermeable",
+    "precio": "54000",
+    "stock": "5",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 53,
+    "nombre": "Traje ejecutivo",
+    "precio": "60000",
+    "stock": "5",
+    "imagen": "imagenes/ejemplo.jpg"
+  },
+  {
+    "id": 63,
+    "nombre": "Productaco",
+    "precio": "231",
+    "stock": "44",
+    "imagen": "imagenes/Sin t\u00edtulo.png"
+  },
+  {
+    "id": 64,
+    "nombre": "asd",
+    "precio": "123213",
+    "stock": "123",
+    "imagen": "imagenes/ejemplo.jpg"
+  }
+]
